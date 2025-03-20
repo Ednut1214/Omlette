@@ -1,0 +1,98 @@
+body {
+  background-color: #fbe4d6;
+  margin: 0;
+}
+img {
+  border-radius: 3%;
+  width: 90%;
+  margin: auto;
+  margin-top: 30px;
+}
+.main-div {
+  background-color: white;
+  width: 50%;
+  position: relative;
+  margin: 50px auto 0 auto;
+  text-align: cente;
+  border-radius: 2%;
+  height: 100%;
+}
+.omlette-pic {
+  text-align: center;
+  background-color: white;
+  position: relative;
+  margin: 50px auto 0 auto;
+  text-align: cente;
+  border-radius: 2%;
+  height: 100%;
+}
+h1 {
+  padding-left: 20px;
+  font-family: young serif;
+  color: rgb(0, 0, 0);
+  font-weight: 400;
+}
+h2 {
+  font-family: young serif;
+  color: rgb(112, 102, 91);
+  padding-left: 20px;
+}
+h3 {
+  padding-top: 30px;
+  padding-left: 20px;
+  font-family: "outfit", sans-serif;
+  color: rgb(112, 102, 91);
+  color: rgb(110, 29, 63);
+}
+.prep {
+  background-color: rgb(252, 249, 250);
+  width: 90%;
+  margin: auto auto;
+  border-radius: 3%;
+  height: 200px;
+}
+p {
+  padding-left: 20px;
+  font-family: "outfit", sans-serif;
+  color: rgb(112, 102, 91);
+  font-size: 16px;
+}
+li {
+  font-family: "outfit", sans-serif;
+  color: rgb(112, 102, 91);
+}
+ul {
+  line-height: 30px;
+}
+.order-pad {
+  padding-left: 35px;
+}
+hr {
+  width: 95%;
+}
+.hr {
+  text-align: center;
+}
+li{
+  padding-left: 10px;
+}
+td{
+  padding-left: 20px;
+  font-family: "outfit", sans-serif;
+  color: rgb(112, 102, 91);
+  font-size: 16px;
+}
+.table{
+  justify-content: space-between;
+  padding-bottom: 40px;
+  border-spacing: 40px;
+}
+table{
+  justify-content: space-between;
+  padding-bottom: 40px;
+border-right:;
+}
+.td-space{
+  padding-right: 250px;
+  padding-left: 50px;
+}
